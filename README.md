@@ -1,2 +1,2 @@
 # Leetcode
-Implementations of C++ code to selected LeetCode problems 
+Implementations of C and C++ code to selected LeetCode problems 
